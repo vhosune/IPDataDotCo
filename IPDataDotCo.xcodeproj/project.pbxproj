@@ -8,6 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		250F764C23B27CDB00638757 /* IPDataDotCo.h in Headers */ = {isa = PBXBuildFile; fileRef = 250F764A23B27CDB00638757 /* IPDataDotCo.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		250F766F23B280A800638757 /* IPDataDotCo+Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766423B280A800638757 /* IPDataDotCo+Settings.swift */; };
+		250F767023B280A800638757 /* IPDataDotCo+Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766423B280A800638757 /* IPDataDotCo+Settings.swift */; };
+		250F767123B280A800638757 /* IPDataDotCo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766523B280A800638757 /* IPDataDotCo.swift */; };
+		250F767223B280A800638757 /* IPDataDotCo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766523B280A800638757 /* IPDataDotCo.swift */; };
+		250F767323B280A800638757 /* IPDataDotCo+QueryFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766623B280A800638757 /* IPDataDotCo+QueryFields.swift */; };
+		250F767423B280A800638757 /* IPDataDotCo+QueryFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766623B280A800638757 /* IPDataDotCo+QueryFields.swift */; };
+		250F767523B280A800638757 /* IPDataDotCo+TimeZone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766823B280A800638757 /* IPDataDotCo+TimeZone.swift */; };
+		250F767623B280A800638757 /* IPDataDotCo+TimeZone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766823B280A800638757 /* IPDataDotCo+TimeZone.swift */; };
+		250F767723B280A800638757 /* IPDataDotCo+Threat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766923B280A800638757 /* IPDataDotCo+Threat.swift */; };
+		250F767823B280A800638757 /* IPDataDotCo+Threat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766923B280A800638757 /* IPDataDotCo+Threat.swift */; };
+		250F767923B280A800638757 /* IPDataDotCo+Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766A23B280A800638757 /* IPDataDotCo+Currency.swift */; };
+		250F767A23B280A800638757 /* IPDataDotCo+Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766A23B280A800638757 /* IPDataDotCo+Currency.swift */; };
+		250F767B23B280A800638757 /* IPDataDotCo+Carrier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766B23B280A800638757 /* IPDataDotCo+Carrier.swift */; };
+		250F767C23B280A800638757 /* IPDataDotCo+Carrier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766B23B280A800638757 /* IPDataDotCo+Carrier.swift */; };
+		250F767D23B280A800638757 /* IPDataDotCo+Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766C23B280A800638757 /* IPDataDotCo+Language.swift */; };
+		250F767E23B280A800638757 /* IPDataDotCo+Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766C23B280A800638757 /* IPDataDotCo+Language.swift */; };
+		250F767F23B280A800638757 /* IPDataDotCo+Asn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766D23B280A800638757 /* IPDataDotCo+Asn.swift */; };
+		250F768023B280A800638757 /* IPDataDotCo+Asn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766D23B280A800638757 /* IPDataDotCo+Asn.swift */; };
+		250F768123B280A800638757 /* IPDataDotCo+JSONRootObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766E23B280A800638757 /* IPDataDotCo+JSONRootObject.swift */; };
+		250F768223B280A800638757 /* IPDataDotCo+JSONRootObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F766E23B280A800638757 /* IPDataDotCo+JSONRootObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -15,6 +35,18 @@
 		250F764A23B27CDB00638757 /* IPDataDotCo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IPDataDotCo.h; sourceTree = "<group>"; };
 		250F764B23B27CDB00638757 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		250F765723B27DA700638757 /* IPDataDotCo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IPDataDotCo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		250F766423B280A800638757 /* IPDataDotCo+Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+Settings.swift"; sourceTree = "<group>"; };
+		250F766523B280A800638757 /* IPDataDotCo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IPDataDotCo.swift; sourceTree = "<group>"; };
+		250F766623B280A800638757 /* IPDataDotCo+QueryFields.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+QueryFields.swift"; sourceTree = "<group>"; };
+		250F766823B280A800638757 /* IPDataDotCo+TimeZone.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+TimeZone.swift"; sourceTree = "<group>"; };
+		250F766923B280A800638757 /* IPDataDotCo+Threat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+Threat.swift"; sourceTree = "<group>"; };
+		250F766A23B280A800638757 /* IPDataDotCo+Currency.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+Currency.swift"; sourceTree = "<group>"; };
+		250F766B23B280A800638757 /* IPDataDotCo+Carrier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+Carrier.swift"; sourceTree = "<group>"; };
+		250F766C23B280A800638757 /* IPDataDotCo+Language.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+Language.swift"; sourceTree = "<group>"; };
+		250F766D23B280A800638757 /* IPDataDotCo+Asn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+Asn.swift"; sourceTree = "<group>"; };
+		250F766E23B280A800638757 /* IPDataDotCo+JSONRootObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IPDataDotCo+JSONRootObject.swift"; sourceTree = "<group>"; };
+		250F768323B2812E00638757 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		250F768723B29D3700638757 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +70,8 @@
 		250F763D23B27CDB00638757 = {
 			isa = PBXGroup;
 			children = (
+				250F768723B29D3700638757 /* LICENSE */,
+				250F768323B2812E00638757 /* README.md */,
 				250F764923B27CDB00638757 /* IPDataDotCo */,
 				250F764823B27CDB00638757 /* Products */,
 			);
@@ -55,10 +89,28 @@
 		250F764923B27CDB00638757 /* IPDataDotCo */ = {
 			isa = PBXGroup;
 			children = (
+				250F766523B280A800638757 /* IPDataDotCo.swift */,
+				250F766623B280A800638757 /* IPDataDotCo+QueryFields.swift */,
+				250F766423B280A800638757 /* IPDataDotCo+Settings.swift */,
+				250F766723B280A800638757 /* ResponseObjects */,
 				250F764A23B27CDB00638757 /* IPDataDotCo.h */,
 				250F764B23B27CDB00638757 /* Info.plist */,
 			);
 			path = IPDataDotCo;
+			sourceTree = "<group>";
+		};
+		250F766723B280A800638757 /* ResponseObjects */ = {
+			isa = PBXGroup;
+			children = (
+				250F766E23B280A800638757 /* IPDataDotCo+JSONRootObject.swift */,
+				250F766823B280A800638757 /* IPDataDotCo+TimeZone.swift */,
+				250F766923B280A800638757 /* IPDataDotCo+Threat.swift */,
+				250F766A23B280A800638757 /* IPDataDotCo+Currency.swift */,
+				250F766B23B280A800638757 /* IPDataDotCo+Carrier.swift */,
+				250F766C23B280A800638757 /* IPDataDotCo+Language.swift */,
+				250F766D23B280A800638757 /* IPDataDotCo+Asn.swift */,
+			);
+			path = ResponseObjects;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -178,6 +230,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				250F767D23B280A800638757 /* IPDataDotCo+Language.swift in Sources */,
+				250F767123B280A800638757 /* IPDataDotCo.swift in Sources */,
+				250F767723B280A800638757 /* IPDataDotCo+Threat.swift in Sources */,
+				250F767B23B280A800638757 /* IPDataDotCo+Carrier.swift in Sources */,
+				250F767F23B280A800638757 /* IPDataDotCo+Asn.swift in Sources */,
+				250F766F23B280A800638757 /* IPDataDotCo+Settings.swift in Sources */,
+				250F768123B280A800638757 /* IPDataDotCo+JSONRootObject.swift in Sources */,
+				250F767323B280A800638757 /* IPDataDotCo+QueryFields.swift in Sources */,
+				250F767523B280A800638757 /* IPDataDotCo+TimeZone.swift in Sources */,
+				250F767923B280A800638757 /* IPDataDotCo+Currency.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,6 +247,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				250F767E23B280A800638757 /* IPDataDotCo+Language.swift in Sources */,
+				250F767223B280A800638757 /* IPDataDotCo.swift in Sources */,
+				250F767823B280A800638757 /* IPDataDotCo+Threat.swift in Sources */,
+				250F767C23B280A800638757 /* IPDataDotCo+Carrier.swift in Sources */,
+				250F768023B280A800638757 /* IPDataDotCo+Asn.swift in Sources */,
+				250F767023B280A800638757 /* IPDataDotCo+Settings.swift in Sources */,
+				250F768223B280A800638757 /* IPDataDotCo+JSONRootObject.swift in Sources */,
+				250F767423B280A800638757 /* IPDataDotCo+QueryFields.swift in Sources */,
+				250F767623B280A800638757 /* IPDataDotCo+TimeZone.swift in Sources */,
+				250F767A23B280A800638757 /* IPDataDotCo+Currency.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "250F765623B27DA700638757"
-               BuildableName = "IPDataDotCo_macOS.framework"
+               BuildableName = "IPDataDotCo.framework"
                BlueprintName = "IPDataDotCo_macOS"
                ReferencedContainer = "container:IPDataDotCo.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "250F765623B27DA700638757"
-            BuildableName = "IPDataDotCo_macOS.framework"
+            BuildableName = "IPDataDotCo.framework"
             BlueprintName = "IPDataDotCo_macOS"
             ReferencedContainer = "container:IPDataDotCo.xcodeproj">
          </BuildableReference>
