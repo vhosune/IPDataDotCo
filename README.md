@@ -13,6 +13,17 @@ Documentation of the api of [ipdata](https://docs.ipdata.co/)
 - iOS 8.0+ / macOS 10.10+
 - Swift 5+
 
+## Installation
+
+### CocoaPods
+
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+pod 'IPDataDotCo', '~> 1.0'
+```
+
+
 ## Usage
 
 ```
