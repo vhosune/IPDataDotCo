@@ -1,5 +1,13 @@
 #  Swift Library for IP information look up using [ipdata.co](https://ipdata.co/) API
 
+[![Language](https://img.shields.io/badge/language-swift-orange)](https://github.com/vhosune/IPDataDotCo)
+[![Platform](https://img.shields.io/cocoapods/p/IPDataDotCo)](https://github.com/vhosune/IPDataDotCo)
+[![GitHub license](https://img.shields.io/github/license/vhosune/IPDataDotCo)](https://raw.githubusercontent.com/vhosune/IPDataDotCo/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/vhosune/IPDataDotCo?sort=semver)](https://github.com/vhosune/IPDataDotCo/releases)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/IPDataDotCo)](https://cocoapods.org/pods/IPDataDotCo)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+
 ## Introduction
 
 **ipdata.co** provides a free api key for upto 1500 requests daily.
@@ -23,6 +31,13 @@ Documentation of the api of [ipdata](https://docs.ipdata.co/)
 pod 'IPDataDotCo', '~> 1.0'
 ```
 
+### Carthage
+
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate Alamofire into your Xcode project using Carthage, specify it in your `Cartfile`:
+
+```ogdl
+github "vhosune/IPDataDotCo" "~> 1.0"
+```
 
 ## Usage
 
